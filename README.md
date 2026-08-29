@@ -8,9 +8,7 @@ The page presents Gerhard's banking, wealth-management, product and architecture
 
 ## Publication
 
-The intended public URL is <https://gerhardbalz.github.io/>.
-
-GitHub Pages is deliberately not enabled until the initial publication pull request is reviewed.
+The public webpage is published through GitHub Pages at <https://gerhardbalz.github.io/>.
 
 ## Technical boundary
 
